@@ -33,9 +33,9 @@
 
 ### ✨ Sobre mim
 
-- 🎓 Estudante e desenvolvedor apaixonado por aprender e ensinar
+- 🎓 Estudante e desenvolvedor apaixonado por aprender.
 - 🌱 Atualmente aprimorando minhas habilidades em TypeScript, Angular, React, Node.js e Banco de Dados
-- 📌 Foco em desenvolvimento web moderno, responsivo e com boas práticas
+- 📌 Foco em desenvolvimento web moderno e responsivo, com aprendizado contínuo em tecnologias atuais para criar experiências digitais de qualidade.
 - 💡 Busco sempre trazer criatividade e funcionalidade aos meus projetos
 
 ---
